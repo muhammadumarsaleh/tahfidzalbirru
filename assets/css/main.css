@@ -23,7 +23,7 @@
   /* --color-primary: #24a747; */
   /* --color-primary: #008374; */
   /* --color-primary: #9cce79; */
-  --color-primary: #23a948;
+  --color-primary: #3708a3;
   --color-secondary: #f85a40;
 }
 
@@ -860,7 +860,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action .container {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/call-action.jpg") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/galeri3.jpeg") center center;
   background-size: cover;
   padding: 100px 60px;
   border-radius: 15px;

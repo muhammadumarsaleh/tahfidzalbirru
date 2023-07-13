@@ -305,7 +305,7 @@ section {
   transition: all 0.5s;
   z-index: 997;
   height: 90px;
-  background-color: #017f36;
+  background-color: #3708a3;
 }
 
 .header.sticked {
@@ -320,7 +320,7 @@ section {
 .header .logo img {
   max-height: 105px;
   margin: 10px 0;
-  padding: 10px;
+  padding: 14px;
 }
 
 .header .logo h1 {
@@ -1959,7 +1959,8 @@ section {
 # Contact Section
 --------------------------------------------------------------*/
 .contact .info-container {
-  background-color: var(--color-primary);
+  /* background-color: var(--color-primary); */
+  background-color: orange;
   height: 100%;
   padding: 20px;
   border-radius: 10px 0 0 10px;
@@ -2129,7 +2130,7 @@ section {
 .hero {
   width: 100%;
   position: relative;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/navbar55.jpeg") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/about1.jpeg") center center;
   /* background-image: url("../img/navbar22.jpg"); */
   /* background: var(--color-primary); */
   background-size: cover;
@@ -2192,7 +2193,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: white;
-  background: #017f36;
+  background: #3708a3;
   box-shadow: 0 8px 28px rgba(22, 223, 126, 0.45);
 }
 
